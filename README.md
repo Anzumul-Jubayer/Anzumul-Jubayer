@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://ibb.co/tMRqTPr7"><img src="https://i.ibb.co/DDd9Hg2x/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" alt="Black-and-Yellow-Web-Developer-Linked-In-Banner-2" border="0"></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Anzumul Jubayer</h1>
 <h3 align="center">Full Stack MERN Developer | Passionate about Building Scalable Web Apps</h3>
 
