@@ -1,9 +1,13 @@
+<!-- Banner -->
 <div align="center">
   <a href="https://ibb.co/tMRqTPr7">
-    <img src="https://i.ibb.co/DDd9Hg2x/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" alt="Black-and-Yellow-Web-Developer-Linked-In-Banner-2" border="0">
+    <img src="https://i.ibb.co/DDd9Hg2x/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" 
+         alt="Banner" 
+         style="width:100%; max-width:100%; height:auto;" />
   </a>
 </div>
 
+<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Anzumul Jubayer</h1>
 <h3 align="center">Full Stack MERN Developer | Passionate about Building Scalable Web Apps</h3>
 
@@ -49,4 +53,7 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer -->
+<p align="center">
+  Proudly created with ❤️ using GPRM (https://gprm.itsvg.in)
+</p>
