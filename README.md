@@ -3,7 +3,8 @@
   <a href="https://ibb.co/tMRqTPr7">
     <img src="https://i.ibb.co/DDd9Hg2x/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" 
          alt="Banner" 
-         style="width:100%; max-width:100%; height:auto;" />
+         width="1000" 
+         style="height:auto;" />
   </a>
 </div>
 
