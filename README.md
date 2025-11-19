@@ -34,7 +34,7 @@ I’m always excited to collaborate on meaningful projects, learn from other dev
   <a href="https://web.facebook.com/anjumuljubayer.evan.3">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anzumul-jubayer23">
+  <a href="https://www.linkedin.com/in/anzumul">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anzumuljubayer222@gmail.com">
