@@ -31,24 +31,49 @@ I’m always excited to collaborate on meaningful projects, learn from other dev
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://facebook.com/jubayer">
+  <a href="https://web.facebook.com/anjumuljubayer.evan.3">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/jubayer">
+  <a href="https://www.linkedin.com/in/anzumul-jubayer23">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="anzumuljubayer222@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">💻 Languages and Tools</h2>
+<h2 align="center">💻 Languages & Tools</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,firebase,tailwind,css,html,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,figma,netlify" />
+
+  <!-- Programming Languages -->
+  <h3>🧩 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,python" />
+
+  <!-- Frontend Development -->
+  <h3>🎨 Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+
+  <!-- Backend Development -->
+  <h3>🛠 Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+  <!-- Databases -->
+  <h3>🗄 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+
+  <!-- Deployment & Cloud -->
+  <h3>🚀 Deployment & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+
+  <!-- Tools & Others -->
+  <h3>⚙️ Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,figma" />
+
 </div>
+
 
 ---
 
@@ -62,8 +87,8 @@ I’m always excited to collaborate on meaningful projects, learn from other dev
 </p>
 
 ---
-
-<!-- Footer -->
+<h2 align="center">👀 Profile Views</h2>
 <p align="center">
-  Proudly created with ❤️ using GPRM (https://gprm.itsvg.in)
+  <img src="https://komarev.com/ghpvc/?username=Anzumul-Jubayer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
