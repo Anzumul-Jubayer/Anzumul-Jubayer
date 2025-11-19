@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <a href="https://ibb.co/tMRqTPr7">
-    <img src="https://i.ibb.co/DDd9Hg2x/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png" 
+    <img src="https://i.ibb.co.com/m5msWgdN/Blue-and-White-Geometric-Digital-Marketer-Linked-In-Banner.png" 
          alt="Banner" 
          width="1000" 
          style="height:auto;" />
@@ -11,6 +11,15 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Anzumul Jubayer</h1>
 <h3 align="center">Full Stack MERN Developer | Passionate about Building Scalable Web Apps</h3>
+
+---
+
+## 👨‍💻 About Me  
+I'm **Anzumul Jubayer**, a passionate **Full Stack MERN Developer** who loves building scalable, user-focused web applications. I enjoy turning ideas into real-world solutions using JavaScript, React, Node.js, Express.js, and MongoDB. I write clean, maintainable code and constantly explore new technologies to level up my skills.
+
+Currently, I'm working on MERN-based projects while learning backend optimization, API security, and cloud deployment tools like **Vercel** and **Netlify**. I enjoy solving problems, designing efficient APIs, and crafting smooth user experiences with modern UI libraries such as **Tailwind CSS**.
+
+I’m always excited to collaborate on meaningful projects, learn from other developers, and contribute to the open-source ecosystem.
 
 ---
 
