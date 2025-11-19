@@ -17,13 +17,13 @@
 ## 👨‍💻 About Me  
 I'm **Anzumul Jubayer**, a passionate **Full Stack MERN Developer** who loves building scalable, user-focused web applications. I enjoy turning ideas into real-world solutions using JavaScript, React, Node.js, Express.js, and MongoDB. I write clean, maintainable code and constantly explore new technologies to level up my skills.
 
-Currently, I'm working on MERN-based projects while learning backend optimization, API security, and cloud deployment tools like **Vercel** and **Netlify**. I enjoy solving problems, designing efficient APIs, and crafting smooth user experiences with modern UI libraries such as **Tailwind CSS**.
+Currently, I'm working on MERN-based projects called zap-Shift 'courier service' web app while learning backend optimization, API security, and cloud deployment tools like **Vercel** and **Netlify**. I enjoy solving problems, designing efficient APIs, and crafting smooth user experiences with modern UI libraries such as **Tailwind CSS**.
 
 I’m always excited to collaborate on meaningful projects, learn from other developers, and contribute to the open-source ecosystem.
 
 ---
 
-- 🔭 I’m currently working on **MERN stack projects**  
+- 🔭 I’m currently working on **Full stack projects MERN project -zap-Shift**  
 - 🌱 I’m learning **Node.js, Express.js, and Cloud Deployment (Vercel, Netlify)**  
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, REST APIs, JWT, Tailwind CSS**  
 
