@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm **Anzumul Jubayer**, a passionate **Full Stack MERN Developer** who loves building scalable, user-focused web applications. I enjoy turning ideas into real-world solutions using JavaScript, React, Node.js, Express.js, and MongoDB. I write clean, maintainable code and constantly explore new technologies to level up my skills.
+I'm **Anzumul Jubayer**, a passionate **Full Stack MERN Developer** who loves building scalable, user-focused web applications. I enjoy turning ideas into real-world solutions using JavaScript, React, Node.js,Next.js,Express.js, and MongoDB. I write clean, maintainable code and constantly explore new technologies to level up my skills.
 
 Currently, I'm working on MERN-based projects called zap-Shift 'courier service' web app while learning backend optimization, API security, and cloud deployment tools like **Vercel** and **Netlify**. I enjoy solving problems, designing efficient APIs, and crafting smooth user experiences with modern UI libraries such as **Tailwind CSS**.
 
@@ -25,7 +25,7 @@ I’m always excited to collaborate on meaningful projects, learn from other dev
 
 - 🔭 I’m currently working on **Full stack projects MERN project -zap-Shift**  
 - 🌱 I’m learning **Node.js, Express.js, and Cloud Deployment (Vercel, Netlify)**  
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, REST APIs, JWT, Tailwind CSS**  
+- 💬 Ask me about **MongoDB, Express.js, React.js,Next.js,Node.js, REST APIs, JWT, Tailwind CSS**  
 
 ---
 
@@ -55,6 +55,8 @@ I’m always excited to collaborate on meaningful projects, learn from other dev
   <!-- Frontend Development -->
   <h3>🎨 Frontend Development</h3>
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
 
   <!-- Backend Development -->
   <h3>🛠 Backend Development</h3>
