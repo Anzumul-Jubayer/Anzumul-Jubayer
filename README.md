@@ -1,96 +1,125 @@
-<!-- Banner -->
-<div align="center">
-  <a href="https://ibb.co/tMRqTPr7">
-    <img src="https://i.ibb.co.com/m5msWgdN/Blue-and-White-Geometric-Digital-Marketer-Linked-In-Banner.png" 
-         alt="Banner" 
-         width="1000" 
-         style="height:auto;" />
-  </a>
-</div>
+ <div align="center">
 
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Anzumul Jubayer</h1>
-<h3 align="center">Full Stack MERN Developer | Passionate about Building Scalable Web Apps</h3>
+  <img src="https://i.ibb.co.com/m5msWgdN/Blue-and-White-Geometric-Digital-Marketer-Linked-In-Banner.png" alt="Anzumul Jubayer — Full Stack Developer" width="100%" />
 
----
+  # Hi, I'm Anzumul Jubayer 👋
 
-## 👨‍💻 About Me  
-I'm **Anzumul Jubayer**, a passionate **Full Stack MERN Developer** who loves building scalable, user-focused web applications. I enjoy turning ideas into real-world solutions using JavaScript, React, Node.js,Next.js,Express.js, and MongoDB. I write clean, maintainable code and constantly explore new technologies to level up my skills.
+  ### AI-Native Full-Stack Developer | Building Intelligent, Scalable Web Applications
 
-Currently, I'm working on MERN-based projects called zap-Shift 'courier service' web app while learning backend optimization, API security, and cloud deployment tools like **Vercel** and **Netlify**. I enjoy solving problems, designing efficient APIs, and crafting smooth user experiences with modern UI libraries such as **Tailwind CSS**.
+  *I turn ideas into real-world products by combining full-stack engineering, AI-powered development, and a user-first mindset.*
 
-I’m always excited to collaborate on meaningful projects, learn from other developers, and contribute to the open-source ecosystem.
-
----
-
-- 🔭 I’m currently working on **Full stack projects MERN project -zap-Shift**  
-- 🌱 I’m learning **Node.js, Express.js, and Cloud Deployment (Vercel, Netlify)**  
-- 💬 Ask me about **MongoDB, Express.js, React.js,Next.js,Node.js, REST APIs, JWT, Tailwind CSS**  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://web.facebook.com/anjumuljubayer.evan.3">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anzumul">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anzumuljubayer222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">💻 Languages & Tools</h2>
-
-<div align="center">
-
-  <!-- Programming Languages -->
-  <h3>🧩 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,python" />
-
-  <!-- Frontend Development -->
-  <h3>🎨 Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-
-  <!-- Backend Development -->
-  <h3>🛠 Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-  <!-- Databases -->
-  <h3>🗄 Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-
-  <!-- Deployment & Cloud -->
-  <h3>🚀 Deployment & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
-
-  <!-- Tools & Others -->
-  <h3>⚙️ Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,figma" />
+  <p>
+    <a href="https://github.com/Anzumul-Jubayer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/anzumul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:anzumuljubayer222@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** focused on building modern web applications, scalable backend systems, and AI-powered software solutions.
+
+I enjoy working across the entire development lifecycle—from designing responsive interfaces and building REST APIs to managing databases, implementing authentication, testing services, and deploying applications.
+
+My approach is **AI-native development**: I use AI as an engineering partner to accelerate development, explore solutions, debug issues, and improve code quality while building a strong understanding of the underlying technologies.
+
+Currently, I'm expanding my expertise in backend engineering, AI integration, system design, and production-ready application development.
+
+- 🔭 Building **SupportPilot AI** — an AI-powered customer support and ticket management platform.
+- 🌱 Learning **AI integration, TypeScript, PostgreSQL, Prisma, and backend architecture**.
+- 🤖 Exploring AI-assisted development and integrating Google Gemini into real-world applications.
+- 💡 Interested in REST API design, authentication, database optimization, and scalable systems.
+- 🤝 Open to collaborating on meaningful projects and connecting with developers.
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">
-  <a href="https://github.com/Anzumul-Jubayer">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Anzumul-Jubayer&theme=algolia&hide_border=true" alt="Streak Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzumul-Jubayer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzumul-Jubayer&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-  </a>
-</p>
+## 🚀 Featured Project
+
+### SupportPilot AI
+
+**An AI-powered customer support platform designed to make ticket management smarter and more efficient.**
+
+- AI-powered ticket classification, priority recommendations, and summaries.
+- AI-generated customer support reply suggestions.
+- Role-based access control for customers, agents, and administrators.
+- Ticket assignment, status management, and agent performance overview.
+- REST API architecture with authentication and database integration.
+
+**Tech Stack:** Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · Google Gemini · Zod · Vitest
+
+🔗 [Live Application](https://supportpilot-ai-client.vercel.app) · [Backend API](https://supportpilot-ai-g2xp.onrender.com) · [API Documentation](https://supportpilot-ai-g2xp.onrender.com/api-docs)
 
 ---
-<h2 align="center">👀 Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anzumul-Jubayer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases & ORM
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+
+### AI & Development
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+
+### Testing & Deployment
+<img src="https://skillicons.dev/icons?i=vitest,vercel,netlify,firebase" />
+
+</div>
+
+**Also working with:** REST APIs · JWT · Zod · Supertest · TanStack Query · React Hook Form · Axios · Google Gemini API · Swagger
+
+---
+
+## 🧠 Engineering Interests
+
+- AI-native and AI-assisted software development
+- Full-stack application architecture
+- RESTful API design and backend engineering
+- Authentication and role-based authorization
+- Database design and query optimization
+- Automated testing and API documentation
+- Cloud deployment and production workflows
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Anzumul-Jubayer&theme=algolia&hide_border=true" alt="GitHub Streak" />
+
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anzumul-Jubayer&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anzumul-Jubayer&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anzumul-Jubayer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+
+  ### 💬 Let's Build Something Meaningful Together
+
+  *Always learning. Always building. Always improving.*
+
+</div>
